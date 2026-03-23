@@ -16,7 +16,7 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          # FIX 2: 'column' is removed, it otomatis calculates now.
+          # FIX 2: Parameter 'column' is removed, it automatically calculates now.
           theme: dracula
           # FIX 3: Renamed from 'output' to 'output_path' to match valid inputs
           output_path: github-trophies.svg
