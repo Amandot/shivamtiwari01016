@@ -1,33 +1,44 @@
-# Hi there, I'm Shivam Tiwari 👋
+<div align="center">
+  
+  # Hi there, I'm Shivam Tiwari 👋
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Java+Developer;3rd-Year+Engineering+Student;Passionate+about+Architecture)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=false&width=500&lines=Backend+Java+Developer;3rd-Year+Engineering+Student;Passionate+about+System+Architecture)](https://git.io/typing-svg)
+  *A 3rd-year engineering student specializing in robust backend development, database architecture, and API design. I enjoy solving complex structural problems and have a deep interest in cryptography.*
 
-I am a 3rd-year engineering student specializing in robust backend development, database architecture, and API design. I enjoy solving complex structural problems and have a deep interest in cryptography and hardware security.
+</div>
+
+<br/>
+
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br/>
 
 ### 🚀 What I'm Currently Working On
-* Architecting the backend system and defining UML workflows for a **Tea Business Management System**.
+* Architecting the backend and UML workflows for a **Tea Business Management System**.
 * Leading the development of **VisionQueue**, focusing on scalable backend processes.
-* Researching and exploring advanced cryptographic concepts, including **Homomorphic Encryption**.
-* Building full-stack applications like the **AI Email Reply Assistant** using Spring Boot and React.
+* Researching advanced cryptographic concepts like **Homomorphic Encryption**.
 
-### 💻 Tech Stack
-* **Languages:** Java, SQL, JavaScript
-* **Frameworks/Libraries:** Spring Boot, Hibernate, React
-* **Tools & Architecture:** Git, RESTful APIs, UML System Design, CI/CD
+<br/>
 
----
+### 🏙️ My Contribution Architecture
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph"/>
+</div>
 
-### 🐍 My GitHub Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamtiwari01016/shivamtiwari01016/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamtiwari01016/shivamtiwari01016/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivamtiwari01016/shivamtiwari01016/output/github-contribution-grid-snake.svg">
-</picture>
-
----
+<br/>
 
 ### 📈 GitHub Stats
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamtiwari01016&show_icons=true&theme=radium)](https://github.com/shivamtiwari01016)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtiwari01016&layout=compact&theme=radium)](https://github.com/shivamtiwari01016)
-
-📫 **Let's Connect:** [Your LinkedIn URL Here]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamtiwari01016&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtiwari01016&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
