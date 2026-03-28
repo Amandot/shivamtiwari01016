@@ -1,0 +1,29 @@
+name: Generate Neon Rush Graph V3
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every midnight
+  workflow_dispatch: # Allows manual button-click trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Neon Rush Engine V3
+        run: python generate_neon_v3.py
+
+      - name: Commit and Push SVG
+        run: |
+          git config --global user.name "Neon-Rush-Bot"
+          git config --global user.email "bot@neonrush.local"
+          git add neon-rush-v3.svg
+          git commit -m "🚗 Auto-generated Neon Rush Graph v3" || exit 0
+          git push
