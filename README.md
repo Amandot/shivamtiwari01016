@@ -76,6 +76,12 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivamtiwari01016/shivamtiwari01016/main/neon-rush.svg" alt="Neon Rush Commit Game" width="800">
+</p>
+
+---
 ### 📫 Let's Connect
 <div align="center">
   <a href="mailto:shivamtiwari01016@gmail.com">
